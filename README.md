@@ -5,22 +5,27 @@ Welcome to the Sigma Python Course Repository! This collection serves as a compl
 **Course Outline:**
 
 **Basic Syntax & Control Structures**
+
 Match Case, For Loop, While Loop, Do While Loop, Break and Continue Statements.
 
 
 **Functions & Data Structures**
+
 Comprehensive examples on Functions, Lists, Tuples, Dictionaries, and Sets, including method applications.
 
 
 **Error Handling & Modules**
+
 Dive into Exception Handling, Raising Errors, Importing Modules, and working with essential modules like OS, Time, Requests, and more.
 
 
 **Object-Oriented Programming (OOP)**
+
 Detailed coverage of Classes, Inheritance, Polymorphism, Encapsulation, Getters & Setters, and Magic Methods. Discover the power of Static, Class, and Instance Variables.
 
 
 **Advanced Topics**
+
 Explore Recursive Functions, Generators, Decorators, Method Overloading & Overriding, and more. Also includes key Python operators like the Walrus Operator and Bitwise Operators.
 
 
